@@ -1,0 +1,7 @@
+img {
+  height: 20rem;
+  width: 30rem;
+}
+.output {
+  display: grid;
+}
