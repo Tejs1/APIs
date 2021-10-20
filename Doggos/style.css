@@ -5,3 +5,7 @@ img {
 .output {
   display: grid;
 }
+#vanta {
+  width: 90vw;
+  height: 90vh;
+}
